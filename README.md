@@ -21,7 +21,7 @@ Ce projet utilise les dernières technologies du marché :
 - **Build Tool** : Vite
 ## 🚀 Installation & Démarrage
 Suivez ces étapes pour lancer le projet en local :
-### 1. Prérequis
+### Prérequis
 - PHP 8.2 ou supérieur
 - Composer
 - Node.js & NPM
