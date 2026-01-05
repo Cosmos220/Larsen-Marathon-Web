@@ -37,8 +37,3 @@ Suivez ces étapes pour lancer le projet en local :
 - Composer
 - Node.js & NPM
 - MySQL
-
-### 2. Cloner le projet
-```bash
-git clone [https://github.com/TonPseudo/Larsen-Marathon-Web.git](https://github.com/TonPseudo/Larsen-Marathon-Web.git)
-cd Larsen-Marathon-Web
