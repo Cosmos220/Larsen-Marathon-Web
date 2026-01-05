@@ -1,4 +1,5 @@
 # 🎸 Larsen - Grunge Culture Blog
+![Aperçu Larsen](https://raw.githubusercontent.com/Cosmos220/Larsen-Marathon-Web/main/image.png)
 ![Laravel](https://img.shields.io/badge/Laravel-12.0-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-4.0-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
